@@ -1,2 +1,2 @@
 # SiNilai
-SiNilai merupakan sebuah website aplikasi yang berguna untuk mempermudah pekerjaan praktikan dan asprak disaat praktikum
+SiNilai merupakan Website Aplikasi yang berguna sebagai pengumpulan dan penilaian jawaban soal saat praktikum, sehingga data - data jawaban dari praktikan dapat di data dengan mudah oleh asisten praktikum.
