@@ -73,4 +73,4 @@ Pengguna Admin merupakan beberapa Mahasiswa yang ditunjuk untuk mengatur jalanny
 # Teknologi yang Digunakan
     Coming Soon
 # Dependency
-    Coming Soon
+* Fomantic-UI
